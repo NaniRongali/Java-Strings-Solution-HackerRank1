@@ -1,1 +1,0 @@
-# Java-Strings-Solution-HackerRank1
